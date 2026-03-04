@@ -1,0 +1,8 @@
+requests
+lxml 
+pandas
+tqdm 
+scikit-learn 
+wordcloud 
+matplotlib 
+nltk
